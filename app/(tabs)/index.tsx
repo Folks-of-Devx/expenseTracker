@@ -12,7 +12,7 @@ const Home = () => {
     }
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Home Test</Text>
       <Button onPress={handleLogout}>
         <Typo color={colors.black}>Logout</Typo>
       </Button>
