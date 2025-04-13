@@ -42,7 +42,7 @@ const Login = () => {
                 Hey,
             </Typo>
             <Typo size={30} fontWeight={"800"}>
-                Welcome Back
+                Welcome Back!
             </Typo>
         </View>
 
